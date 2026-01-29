@@ -78,6 +78,8 @@ V = \frac{2 \pi \cdot A \cdot NA}{\lambda} = 4.91
 \[
 \frac{V^2}{2} = \frac{(4.91)^2}{2} \approx 12.05
 \]
+![WhatsApp Image 2026-01-28 at 9 07 07 AM](https://github.com/user-attachments/assets/f7898ecc-9ede-4aec-a06d-2e02a0db91d2)
+
 
 ---
 
